@@ -2,9 +2,9 @@
 
 # AWS variables
 AWS_PROFILE=default
-AWS_REGION=eu-west-3
+AWS_REGION=ca-central-1
 # project variables
-PROJECT_NAME=kubernetes-github-actions
+PROJECT_NAME=deploy-eks
 WEBSITE_PORT=3000
 
 # the directory containing the script file
