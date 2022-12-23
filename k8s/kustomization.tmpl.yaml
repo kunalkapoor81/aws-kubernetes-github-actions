@@ -4,6 +4,6 @@ resources:
 - service.yaml
 
 images:
-- name: amazonaws.com/kubernetes-github-actions
+- name: amazonaws.com/deploy-eks
   newName: ${ECR_REPOSITORY}
   newTag: ${IMAGE_TAG}
